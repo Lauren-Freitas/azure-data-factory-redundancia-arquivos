@@ -16,11 +16,11 @@ Demonstrar uma solução de movimentação de dados segura, estruturada e automa
 
 ```mermaid
 graph TD
-    A[SQL Server (on-premises)] --> B[Integration Runtime Self-hosted]
-    B --> C[Linked Service - SQL Server]
-    C --> D[Pipeline de Cópia]
-    D --> E[Linked Service - Blob Storage]
-    E --> F[Azure Data Lake - Bronze Layer]
+    A[SQL Server] --> B[Integration Runtime]
+    B --> C[Linked Service SQL]
+    C --> D[Copy Pipeline]
+    D --> E[Linked Service Blob]
+    E --> F[Blob Storage - Bronze Layer]
 ```
 
 ---
