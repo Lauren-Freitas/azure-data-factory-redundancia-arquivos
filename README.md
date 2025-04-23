@@ -18,9 +18,9 @@ Demonstrar uma solução de movimentação de dados segura, estruturada e automa
 graph TD
     A[SQL Server] --> B[Integration Runtime]
     B --> C[Linked Service SQL]
-    C --> D[Copy Pipeline]
+    C --> D[Copy Data Pipeline]
     D --> E[Linked Service Blob]
-    E --> F[Blob Storage - Bronze Layer]
+    E --> F[Blob Storage (Bronze)]
 ```
 
 ---
