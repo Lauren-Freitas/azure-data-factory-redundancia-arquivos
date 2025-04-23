@@ -111,12 +111,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e me dedico a apren
 
 ✨ Projeto desenvolvido como parte do **bootcamp DIO – Azure Data Fundamentals**
 
-![17_Fluxo_Simplificado](https://github.com/user-attachments/assets/584b31a4-e26e-4b84-a17f-ac4138983570)
-![16_Diagrama_Processo_2](https://github.com/user-attachments/assets/c01803a0-3d84-40bf-b411-8b04f0ce127d)
-![15_Diagrama_Processo_1](https://github.com/user-attachments/assets/167145cc-977f-4f54-b44d-faa8e8957cd5)
-![14_Listagem_Arquivo_Blob](https://github.com/user-attachments/assets/66a604bb-e263-4405-815a-beb9f8785cff)
-![13_Execucao_Sucesso](https://github.com/user-attachments/assets/09a19116-b243-41dd-831e-34f4351644fd)
-![12_Arquivo_Propriedades](https://github.com/user-attachments/assets/d556285c-3349-4123-8ec6-bd0a39e20ef4)
+![12_Fluxo_Simplificado](https://github.com/user-attachments/assets/584b31a4-e26e-4b84-a17f-ac4138983570)
 ![11_Arquivo_Salvo_Em_Blob](https://github.com/user-attachments/assets/b172082f-8fac-48bf-bb2b-b28b54f8fb09)
 ![10_SQL_Management_Consulta](https://github.com/user-attachments/assets/7393b5e9-3ce9-4371-921b-491013413d08)
 ![09_SQL_Server_Editor](https://github.com/user-attachments/assets/b9e33361-da16-4e32-b998-cb1652ceb1e2)
