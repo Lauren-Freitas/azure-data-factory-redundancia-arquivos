@@ -56,7 +56,6 @@ graph TD
 ![10_SQL_Management_Consulta](https://github.com/user-attachments/assets/7393b5e9-3ce9-4371-921b-491013413d08)
 ![09_SQL_Server_Editor](https://github.com/user-attachments/assets/b9e33361-da16-4e32-b998-cb1652ceb1e2)
 ![08_Dataset_TXT](https://github.com/user-attachments/assets/cab09bb9-d9ed-44f9-bfae-e647d076232f)
-![07_Dataset_SQL](https://github.com/user-attachments/assets/be65943c-a6a8-419e-ad2b-5b11ccb820b8)
 
 ### 💾 Blob Storage
 
