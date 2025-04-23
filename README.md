@@ -1,7 +1,5 @@
 # azure-data-factory-redundancia-arquivos
 
-# azure-data-factory-redundancia-arquivos
-
 # 🔄 Projeto: Redundância de Arquivos com Azure Data Factory
 
 Este repositório documenta o processo completo de criação de redundância de arquivos a partir de uma fonte SQL Server on-premises para o Azure Blob Storage, utilizando **Azure Data Factory**.
