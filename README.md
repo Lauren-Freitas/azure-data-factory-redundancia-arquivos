@@ -41,38 +41,32 @@ graph TD
 
 ### 🧭 Visão geral dos recursos
 
-![Recursos Azure](imagens/01_Recursos_Azure.png)  
-![Dashboard Azure](imagens/02_Dashboard_Azure_Recursos.png)
+![01_Recursos_Azure](https://github.com/user-attachments/assets/4c0d0c32-f957-4e93-a3bd-5ee00f3907c2)
+![02_Dashboard_Azure_Recursos](https://github.com/user-attachments/assets/166136e1-0647-4c9b-af10-6a462e98447a)
 
 ### ⚙️ Azure Data Factory
 
-![Visão Geral ADF](imagens/03_Visao_Geral_ADF.png)  
-![Recursos Recentes ADF](imagens/04_Recursos_Recentes_DataFactory.png)  
-![Painel de Monitoramento](imagens/05_Resumo_DataFactory_Painel.png)  
-![Criação do Pipeline](imagens/06_ADF_Pipeline_Criacao.png)
+![06_ADF_Pipeline_Criacao](https://github.com/user-attachments/assets/541b4715-60b4-446a-b5dc-7c058d2683af)
+![05_Resumo_DataFactory_Painel](https://github.com/user-attachments/assets/f11a0395-3546-481f-a160-90576960672f)
+![04_Recursos_Recentes_DataFactory](https://github.com/user-attachments/assets/c5a21b66-6f81-4723-bdcb-38b40ddce97d)
+![03_Visao_Geral_ADF](https://github.com/user-attachments/assets/a909e5f5-df24-450e-abf0-37d03abc18b3)
 
 ### 📥 Fonte de Dados
 
-![Dataset SQL](imagens/07_Dataset_SQL.png)  
-![Dataset TXT](imagens/08_Dataset_TXT.png)  
-![Editor SQL Server](imagens/09_SQL_Server_Editor.png)  
-![Consulta SQL Management](imagens/10_SQL_Management_Consulta.png)
+![10_SQL_Management_Consulta](https://github.com/user-attachments/assets/7393b5e9-3ce9-4371-921b-491013413d08)
+![09_SQL_Server_Editor](https://github.com/user-attachments/assets/b9e33361-da16-4e32-b998-cb1652ceb1e2)
+![08_Dataset_TXT](https://github.com/user-attachments/assets/cab09bb9-d9ed-44f9-bfae-e647d076232f)
+![07_Dataset_SQL](https://github.com/user-attachments/assets/be65943c-a6a8-419e-ad2b-5b11ccb820b8)
 
 ### 💾 Blob Storage
 
-![Arquivo Salvo](imagens/11_Arquivo_Salvo_Em_Blob.png)  
-![Propriedades do Arquivo](imagens/12_Arquivo_Propriedades.png)  
-![Execução Bem-Sucedida](imagens/13_Execucao_Sucesso.png)  
-![Arquivo na Camada Bronze](imagens/14_Listagem_Arquivo_Blob.png)
+![11_Arquivo_Salvo_Em_Blob](https://github.com/user-attachments/assets/b172082f-8fac-48bf-bb2b-b28b54f8fb09)
 
 ---
 
 ## 📊 Diagramas do Processo
 
-![Diagrama ADF 1](imagens/15_Diagrama_Processo_1.png)  
-![Diagrama ADF 2](imagens/16_Diagrama_Processo_2.png)  
-![Fluxo Simplificado](imagens/17_Fluxo_Simplificado.png)
-
+![12_Fluxo_Simplificado](https://github.com/user-attachments/assets/584b31a4-e26e-4b84-a17f-ac4138983570)
 
 ---
 
@@ -111,15 +105,9 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e me dedico a apren
 
 ✨ Projeto desenvolvido como parte do **bootcamp DIO – Azure Data Fundamentals**
 
-![12_Fluxo_Simplificado](https://github.com/user-attachments/assets/584b31a4-e26e-4b84-a17f-ac4138983570)
-![11_Arquivo_Salvo_Em_Blob](https://github.com/user-attachments/assets/b172082f-8fac-48bf-bb2b-b28b54f8fb09)
-![10_SQL_Management_Consulta](https://github.com/user-attachments/assets/7393b5e9-3ce9-4371-921b-491013413d08)
-![09_SQL_Server_Editor](https://github.com/user-attachments/assets/b9e33361-da16-4e32-b998-cb1652ceb1e2)
-![08_Dataset_TXT](https://github.com/user-attachments/assets/cab09bb9-d9ed-44f9-bfae-e647d076232f)
-![07_Dataset_SQL](https://github.com/user-attachments/assets/be65943c-a6a8-419e-ad2b-5b11ccb820b8)
-![06_ADF_Pipeline_Criacao](https://github.com/user-attachments/assets/541b4715-60b4-446a-b5dc-7c058d2683af)
-![05_Resumo_DataFactory_Painel](https://github.com/user-attachments/assets/f11a0395-3546-481f-a160-90576960672f)
-![04_Recursos_Recentes_DataFactory](https://github.com/user-attachments/assets/c5a21b66-6f81-4723-bdcb-38b40ddce97d)
-![03_Visao_Geral_ADF](https://github.com/user-attachments/assets/a909e5f5-df24-450e-abf0-37d03abc18b3)
-![02_Dashboard_Azure_Recursos](https://github.com/user-attachments/assets/166136e1-0647-4c9b-af10-6a462e98447a)
-![01_Recursos_Azure](https://github.com/user-attachments/assets/4c0d0c32-f957-4e93-a3bd-5ee00f3907c2)
+
+
+
+
+
+
