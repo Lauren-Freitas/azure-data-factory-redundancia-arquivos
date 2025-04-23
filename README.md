@@ -95,7 +95,7 @@ graph TD
 ## 👩‍💻 Sobre mim
 
 Me chamo **Lauren Freitas**, sou comissária de bordo em transição para a área de tecnologia.  
-Atualmente estudo **Análise e Desenvolvimento de Sistemas** e me dedico a aprender sobre **automção, dados e nuvem**, desenvolvendo projetos práticos como este.
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** e me dedico a aprender sobre **automação, dados e nuvem**, desenvolvendo projetos práticos como este.
 
 [![LinkedIn](https://img.shields.io/badge/-Lauren%20Freitas-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/laurend-freitas)  
 [![GitHub](https://img.shields.io/badge/-@Lauren--Freitas-181717?logo=github&style=for-the-badge)](https://github.com/Lauren-Freitas)
